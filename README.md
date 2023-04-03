@@ -4,5 +4,6 @@ O objetivo deste repositório é armazenar os estudos e resoluções de exercíc
 
 O que foi visto até o momento:<br>
 
-1. Operações, variáveis e input<br>
+Parte 1 - Operações e Variáveis<br>
+Parte 2 - Inputs e Strings<br>
 
