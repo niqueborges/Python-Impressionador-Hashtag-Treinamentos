@@ -2,7 +2,7 @@
 
 O objetivo deste repositório é armazenar os estudos e resoluções de exercícios do curso Python Impressionador.
 
-O que foi visto até o momento<br/>
+O que foi visto até o momento:<br>
 
-1. Operações, variáveis e input<br/>
+1. Operações, variáveis e input<br>
 
