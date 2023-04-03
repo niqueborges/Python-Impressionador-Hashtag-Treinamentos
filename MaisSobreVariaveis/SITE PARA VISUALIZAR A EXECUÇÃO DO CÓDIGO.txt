@@ -1,0 +1,1 @@
+Olá, http://pythontutor.com/visualize.html#mode=edit nesse site podemos visualizar a execução do código passo a passo para quem tenha interesse.
